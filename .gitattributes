@@ -1,3 +1,7 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 D__MCT_Projects_P3_student_P3-AStar_worlds_Project3.wbt[[:space:]](P3-AStar)[[:space:]]-[[:space:]]Webots[[:space:]]R2021b[[:space:]]2024-12-19[[:space:]]18-27-58 filter=lfs diff=lfs merge=lfs -text
 Astar_LQR_Simulation.mp4 filter=lfs diff=lfs merge=lfs -text
+EKF_LQR_simulation.mp4git filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+EKF_LQR_simulation.mp4 filter=lfs diff=lfs merge=lfs -text
